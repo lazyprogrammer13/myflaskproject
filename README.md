@@ -9,4 +9,5 @@ Here are details for the project:
 		src (package): It will have restapi file.
 	logs: All the logs of our application will be genrated here.
 	config: It will have all the app related configuration.
-2. Applied OOPs concept where ever required
+2. Applied OOPs concept where ever required.
+3. Used mongodb as database (created 3 collections)
