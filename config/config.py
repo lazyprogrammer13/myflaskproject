@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 16 23:26:00 2021
 
-@author: shuchugh
+@author: shubhamchugh
 """
 
 DB_NAME="flask_project"
